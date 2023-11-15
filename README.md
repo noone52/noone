@@ -1,6 +1,6 @@
 - no one .
-- yep 。
-- x 
+- yep .
+- x .
 
   
   
